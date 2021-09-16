@@ -1,0 +1,27 @@
+{
+  "name": "myportfolio-in-webpack-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtsushiHayasaka/myportfolio-in-webpack-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtsushiHayasaka/myportfolio-in-webpack-typescript/issues"
+  },
+  "homepage": "https://github.com/AtsushiHayasaka/myportfolio-in-webpack-typescript#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "webpack": "^5.52.1",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.2.1"
+  }
+}
